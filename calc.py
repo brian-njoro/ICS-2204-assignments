@@ -38,4 +38,4 @@ else:
     result = "Invalid operation selected."
 
 # Print the result using f string
-print(f"Hello, {name}! The result of your operation is: {result}")
+print(f"Hello, {name}, the result of your operation is: {result}")
