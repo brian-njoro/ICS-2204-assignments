@@ -1,3 +1,4 @@
+#Brian Njoroge Irungu -- SCT211-0507/2021
 # Prompt the user for their name
 name = str (input("Enter your name: "))
 
