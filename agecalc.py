@@ -1,7 +1,7 @@
 #Age calculator
 from datetime import datetime
 
-birth_date = input("Enter date of birthin the format: Year-Month-Day ")
+birth_date = input("Enter date of birth in the format: Year-Month-Day ")
 date = datetime.now()
 birthday  = datetime.strptime(birth_date, "%Y-%m-%d")
 age = date - birthday
