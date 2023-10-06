@@ -1,3 +1,5 @@
+#Brian Njoroge Irungu -- SCT211-0507/2021
+
 total_bill = float(input("Enter total bill amount: "))
 tip_percentage = int(input("Enter percentage tip you wish to pay "))
 customers = int(input("Enter number of people to split bill: "))

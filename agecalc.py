@@ -1,3 +1,5 @@
+#Brian Njoroge Irungu -- SCT211-0507/2021
+
 #Age calculator
 from datetime import datetime
 
