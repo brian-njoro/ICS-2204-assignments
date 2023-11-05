@@ -43,3 +43,12 @@ class Calculator:
     def display_result(self):
         # Print the result using an f-string
         print(f"Hello, {self.name}, the result of your operation is: {self.result}")
+
+
+name = input("enter your name")
+divide_calc = Calculator(name)
+
+divide_calc.get_operands()
+divide_calc.get_operation()
+divide_calc.perform_operation()
+divide_calc.display_result()
