@@ -1,3 +1,5 @@
+#Brian Njoroge Irungu -- SCT211-0507/2021
+
 class Calculator:
     def __init__(self, name):
         self.name = name
